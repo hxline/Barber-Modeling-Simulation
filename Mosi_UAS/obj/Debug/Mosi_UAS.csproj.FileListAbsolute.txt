@@ -1,0 +1,18 @@
+c:\users\handoyo\documents\visual studio 2013\Projects\Mosi_UAS\Mosi_UAS\bin\Debug\Mosi_UAS.exe.config
+c:\users\handoyo\documents\visual studio 2013\Projects\Mosi_UAS\Mosi_UAS\bin\Debug\Mosi_UAS.exe
+c:\users\handoyo\documents\visual studio 2013\Projects\Mosi_UAS\Mosi_UAS\bin\Debug\Mosi_UAS.pdb
+c:\users\handoyo\documents\visual studio 2013\Projects\Mosi_UAS\Mosi_UAS\obj\Debug\Mosi_UAS.csprojResolveAssemblyReference.cache
+c:\users\handoyo\documents\visual studio 2013\Projects\Mosi_UAS\Mosi_UAS\obj\Debug\Mosi_UAS.Form1.resources
+c:\users\handoyo\documents\visual studio 2013\Projects\Mosi_UAS\Mosi_UAS\obj\Debug\Mosi_UAS.Properties.Resources.resources
+c:\users\handoyo\documents\visual studio 2013\Projects\Mosi_UAS\Mosi_UAS\obj\Debug\Mosi_UAS.csproj.GenerateResource.Cache
+c:\users\handoyo\documents\visual studio 2013\Projects\Mosi_UAS\Mosi_UAS\obj\Debug\Mosi_UAS.exe
+c:\users\handoyo\documents\visual studio 2013\Projects\Mosi_UAS\Mosi_UAS\obj\Debug\Mosi_UAS.pdb
+D:\Matkul\Semester 8\Mosi\Mosi_UAS\Mosi_UAS\bin\Debug\Mosi_UAS.exe.config
+D:\Matkul\Semester 8\Mosi\Mosi_UAS\Mosi_UAS\obj\Debug\Mosi_UAS.exe
+D:\Matkul\Semester 8\Mosi\Mosi_UAS\Mosi_UAS\obj\Debug\Mosi_UAS.pdb
+D:\Matkul\Semester 8\Mosi\Mosi_UAS\Mosi_UAS\bin\Debug\Mosi_UAS.exe
+D:\Matkul\Semester 8\Mosi\Mosi_UAS\Mosi_UAS\bin\Debug\Mosi_UAS.pdb
+D:\Matkul\Semester 8\Mosi\Mosi_UAS\Mosi_UAS\obj\Debug\Mosi_UAS.csprojResolveAssemblyReference.cache
+D:\Matkul\Semester 8\Mosi\Mosi_UAS\Mosi_UAS\obj\Debug\Mosi_UAS.Form1.resources
+D:\Matkul\Semester 8\Mosi\Mosi_UAS\Mosi_UAS\obj\Debug\Mosi_UAS.Properties.Resources.resources
+D:\Matkul\Semester 8\Mosi\Mosi_UAS\Mosi_UAS\obj\Debug\Mosi_UAS.csproj.GenerateResource.Cache
